@@ -1,6 +1,8 @@
 # School Clock
 
-This is a simple yet helpful web app made for storing your class schedules with no database needed. You can view a the official website for this repository [here](https://whenislun.ch).
+**A note from me three years later:** I made this project (and wrote this README) in 8th grade. It may not run very smoothly. If you want to learn more about what I'm up to now, check out my portfolio: [ronenjain.com](https://ronenjain.com).
+
+This is a simple yet helpful web app made for storing your class schedules with no database needed. You can view the live version of this project [here](https://school.ronenjain.com).
 
 ## How it works:
 
@@ -19,4 +21,4 @@ somehow doesn't work, then just open your browser settings and clear your histor
   - With the Share Schedule feature, every time you enter your schedule for the first time, you can click on the `Share Schedule` button (also at the bottom of the page), and you will be given a long-ish URL that will automatically load the current schedule when you open the link.
     + You can also text/email this link to your friends who may have the same schedule as you so they can get their schedules auto-set.
   - You can copy and paste the URL into a new tab and click `OK` when it asks you if you'd like to remain on the page. This will allow you to bookmark the long link. Now you can save a bookmark for each day's schedule and click whichever one depending on the day! Amazing!
-    + Funny, you can also use one of my other creations, [LinksForMe](https://linksfor.me), to create a link group of your schedule!
+    + Funny, you can also use one of my other creations, [LinksForMe](https://lfm.ronenjain.com), to create a link group of your schedule!
